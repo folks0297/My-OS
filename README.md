@@ -18,7 +18,7 @@ I used HTML, CSS, and JavaScript. No frameworks. The design is inspired by Nothi
 I added draggable windows and localStorage for notes and todos as my own features.
 
 ##What I Learned
-How to make elements draggable with mouse events
-How to use localStorage to save data
-How to build a simple game with canvas
-How to keep a UI clean and consistent
+* How to make elements draggable with mouse events
+* How to use localStorage to save data
+* How to build a simple game with canvas
+* How to keep a UI clean and consistent
